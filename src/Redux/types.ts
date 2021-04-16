@@ -1,0 +1,5 @@
+export const UPDATE_APP_STATE = 'UPDATE_APP_STATE';
+export const UPDATE_BULK_APP_STATE = 'UPDATEBULK_APP_STATE';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const DELETE_FROM_CART = 'DELETE_FROM_CART';
+export const MY_ORDER = 'MY_ORDER';
